@@ -1,0 +1,13 @@
+C:\Users\rsoci\source\repos\UsandoTryCatch\bin\Debug\netcoreapp3.1\-TRYCatch_Incompleto.exe
+C:\Users\rsoci\source\repos\UsandoTryCatch\bin\Debug\netcoreapp3.1\-TRYCatch_Incompleto.deps.json
+C:\Users\rsoci\source\repos\UsandoTryCatch\bin\Debug\netcoreapp3.1\-TRYCatch_Incompleto.runtimeconfig.json
+C:\Users\rsoci\source\repos\UsandoTryCatch\bin\Debug\netcoreapp3.1\-TRYCatch_Incompleto.runtimeconfig.dev.json
+C:\Users\rsoci\source\repos\UsandoTryCatch\bin\Debug\netcoreapp3.1\-TRYCatch_Incompleto.dll
+C:\Users\rsoci\source\repos\UsandoTryCatch\bin\Debug\netcoreapp3.1\-TRYCatch_Incompleto.pdb
+C:\Users\rsoci\source\repos\UsandoTryCatch\obj\Debug\netcoreapp3.1\-TRYCatch_Incompleto.csprojAssemblyReference.cache
+C:\Users\rsoci\source\repos\UsandoTryCatch\obj\Debug\netcoreapp3.1\-TRYCatch_Incompleto.csproj.CoreCompileInputs.cache
+C:\Users\rsoci\source\repos\UsandoTryCatch\obj\Debug\netcoreapp3.1\-TRYCatch_Incompleto.AssemblyInfoInputs.cache
+C:\Users\rsoci\source\repos\UsandoTryCatch\obj\Debug\netcoreapp3.1\-TRYCatch_Incompleto.AssemblyInfo.cs
+C:\Users\rsoci\source\repos\UsandoTryCatch\obj\Debug\netcoreapp3.1\-TRYCatch_Incompleto.dll
+C:\Users\rsoci\source\repos\UsandoTryCatch\obj\Debug\netcoreapp3.1\-TRYCatch_Incompleto.pdb
+C:\Users\rsoci\source\repos\UsandoTryCatch\obj\Debug\netcoreapp3.1\-TRYCatch_Incompleto.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "-TRYCatch_Incompleto/1.0.0": {
+        "runtime": {
+          "-TRYCatch_Incompleto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "-TRYCatch_Incompleto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
